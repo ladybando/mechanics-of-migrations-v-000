@@ -6,3 +6,9 @@ task :console do
   ARGV.clear
   IRB.start
 end
+
+# def reload!
+  
+#   load_all './db'
+
+# end
